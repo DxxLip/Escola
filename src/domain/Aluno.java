@@ -1,6 +1,6 @@
 package domain;
 import java.util.List;
-public class Aluno {
+public class Aluno extends Pessoa{
 
 private String matricula;
 private Curso curso;

@@ -9,6 +9,7 @@ public class Disciplina {
     private String bibliografia;
     private List<Disciplina> preRequisitos;
     private Curso curso;
+    private List<Turma> turmas;
 
     public void cadastrar() {
 
